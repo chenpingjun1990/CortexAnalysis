@@ -6,7 +6,7 @@ Cortex Analysis
 Related to [FreeSurfer] [FreeSurfer] installation and usage.
 
 ## Cortical Mapping
-Using [Area Preserving Brain Mapping] [Area Preserving Brain Mapping] to unfold 3d mesh to 2D surface.
+Using [Area Preserving Brain Mapping] to unfold 3d mesh to 2D surface.
 
 ## Cortical Analysis
 Extract features from 2D image, using classification method (SVM, Random forest
