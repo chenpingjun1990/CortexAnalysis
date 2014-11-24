@@ -1,4 +1,6 @@
-# Cortical Analysis Documenation and Programs
+Cortex Analysis
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 ## FreeSurfer
 Related to FreeSufer installation and usage.
